@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in computer science, Shandong University, 2021
-* M.S. in data science, City University of Hong Kong, 2022
+* B.S. in Computer Science, Shandong University, 2021
+* M.S. in Data Science, City University of Hong Kong, 2022
 
 Work experience
 ======
