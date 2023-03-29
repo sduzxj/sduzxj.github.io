@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xinjian Zhao (赵鑫鉴)"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
