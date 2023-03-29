@@ -22,4 +22,4 @@ Work experience
 ======
 * Fall 2022: Research Assistant
   * The Chinese University of Hong Kong, Shenzhen
-  * Supervisor: Professor Tianshu Yu
+  * Supervisor: Prof.Tianshu Yu
