@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinjian Zhao / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Xinjian Zhao"
 description              : &description "personal description"
