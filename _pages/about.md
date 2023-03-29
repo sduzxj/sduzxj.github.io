@@ -15,8 +15,8 @@ I am Xinjian Zhao, a Research Assistant at The Chinese University of Hong Kong, 
 
 Education
 ======
-* B.S. in Computer Science, Shandong University, 2021
-* M.S. in Data Science, City University of Hong Kong, 2022
+* B.S. in Computer Science, Shandong University, 2017-2021
+* M.S. in Data Science, City University of Hong Kong, 2021-2022
 
 Work experience
 ======
