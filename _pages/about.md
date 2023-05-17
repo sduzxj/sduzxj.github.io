@@ -16,7 +16,7 @@ Hi, I am Xinjian Zhao, a Research Assistant at The Chinese University of Hong Ko
 
 ## Education
 
-* B.S. in Computer Science, Shandong University (Data science elite class)
+* B.S. in Computer Science, Shandong University (Data Science Elite Class)
 * M.S. in Data Science, City University of Hong Kong
 
 ## Experience
