@@ -21,7 +21,7 @@ Hi, I am Xinjian Zhao, a Research Assistant at The Chinese University of Hong Ko
 
 ## Experience
 
-* Dec 2022 - Aug 2023: The Chinese University of Hong Kong(Shenzhen), Research Assistant
+* Dec 2022 - Aug 2023: CUHK-SZ, Research Assistant
   * Supervisor: [Prof.Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/)
 * Aug 2019 - May 2020: Shandong University, Research Assistant
   * Supervisor: [Dr.Na Zheng](https://zhennaziyu.github.io/homepage/), [Prof.Xuemeng Song](https://xuemengsong.github.io/)
