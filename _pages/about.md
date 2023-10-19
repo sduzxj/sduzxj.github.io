@@ -21,7 +21,7 @@ Hi, I am Xinjian Zhao, a Research Assistant at The Chinese University of Hong Ko
 
 
 ## Preprint
-**Embedding in Recommender Systems**: A Survey. Xiangyu Zhao^{\*}, Maolin Wang^{\*}, **Xinjian Zhao**^{\*}, Jiansheng Li, Shucheng Zhou, Ruocheng Guo.
+**Embedding in Recommender Systems**: A Survey. Xiangyu Zhao^*^, Maolin Wang^*^, **Xinjian Zhao**^*^, Jiansheng Li, Shucheng Zhou, Ruocheng Guo.
 
 ## Publications
 
