@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Short Bio
 
-Hi, I am Xinjian Zhao, a Research Assistant at The Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof.Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). I obtained my B.S. in Computer Science from Shandong University under the supervision of [Prof.Xuemeng Song](https://xuemengsong.github.io/). After that, I obtained my M.S. in Data science from the City University of Hong Kong, under the supervision of [Prof.Ruocheng Guo](https://rguo12.github.io/).
+Hi, I am a first-year PhD student at The Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof.Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). I obtained my B.S. in Computer Science from Shandong University under the supervision of [Prof.Xuemeng Song](https://xuemengsong.github.io/). After that, I obtained my M.S. in Data science from the City University of Hong Kong, under the supervision of [Prof.Ruocheng Guo](https://rguo12.github.io/).
 
 ## Research Interests:
 * Graph representation learning
