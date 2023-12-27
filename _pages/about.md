@@ -21,7 +21,7 @@ Hi, I am a first-year PhD student at The Chinese University of Hong Kong, Shenzh
 
 
 ## Preprint
-**[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** **Xiangyu Zhao<sup>*</sup>**, **Maolin Wang<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. (Under review)
+**[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** **Xiangyu Zhao<sup>*</sup>**, **Maolin Wang<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. (Under review). [Github](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
 ## Publications
 
