@@ -23,7 +23,7 @@ Hi, I am a first-year CS PhD student at The Chinese University of Hong Kong, She
 ## Preprint
 **[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** **Xiangyu Zhao<sup>*</sup>**, **Maolin Wang<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Github](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
-**[Boosting Graph Pooling with Persistent Homology.](https://arxiv.org/pdf/2310.18608.pdf)** Chaolong Ying, **Xinjian Zhao**, Tianshu Yu.
+**[Boosting Graph Pooling with Persistent Homology.](https://arxiv.org/pdf/2402.16346)** Chaolong Ying, **Xinjian Zhao**, Tianshu Yu.
 
 
 
