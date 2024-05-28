@@ -21,10 +21,14 @@ Hi, I am a first-year CS PhD student at The Chinese University of Hong Kong, She
 
 
 ## Preprint
-**[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** **Xiangyu Zhao<sup>*</sup>**, **Maolin Wang<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. (Under review). [Github](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
+**[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** **Xiangyu Zhao<sup>*</sup>**, **Maolin Wang<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Github](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
+
+**[Boosting Graph Pooling with Persistent Homology.](https://arxiv.org/pdf/2310.18608.pdf)** Chaolong Ying, **Xinjian Zhao**, Tianshu Yu.
+
+
 
 ## Publications
-**[Boosting Protein Language Models with Negative Sample Mining]()** **Yaoyao Xu<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. (ECML-PKDD 2024)
+**[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)** **Yaoyao Xu<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. (ECML-PKDD 2024)
 
 ## Experience
 
