@@ -31,4 +31,5 @@ Hi, I am a first-year CS PhD student at The Chinese University of Hong Kong, She
 **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)** **Yaoyao Xu<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. (ECML-PKDD 2024)
 
 ## Experience
+* Intern, SRIBD, Mentor: [Dr.Liang Zhang](https://scholar.google.co.uk/citations?hl=en&user=MKlx5KsAAAAJ)
 
