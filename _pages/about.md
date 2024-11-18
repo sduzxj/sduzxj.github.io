@@ -24,33 +24,33 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 
 ## Preprint
-**[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** 
++ **[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** 
 
-**Xiangyu Zhao<sup>*</sup>**, **Maolin Wang<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Github](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
+Xiangyu Zhao*, Maolin Wang*, **Xinjian Zhao<sup>*</sup>**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Github](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
-**[Enhancing Graph Self-Supervised Learning with Graph Interplay.](https://arxiv.org/abs/2410.04061)** 
++ **[Enhancing Graph Self-Supervised Learning with Graph Interplay.](https://arxiv.org/abs/2410.04061)** 
 
-**Xinjian Zhao<sup>*</sup>**, **Wei Pang<sup>*</sup>**, **Xiangru Jian<sup>*</sup>**, Yaoyao Xu, Chaolong Ying, Tianshu Yu.
+**Xinjian Zhao<sup>*</sup>**, Wei Pang*, Xiangru Jian*, Yaoyao Xu, Chaolong Ying, Tianshu Yu.
 
-**[Do spectral cues matter in contrast-based graph self-supervised learning?](https://arxiv.org/abs/2405.19600)**  
++ **[Do spectral cues matter in contrast-based graph self-supervised learning?](https://arxiv.org/abs/2405.19600)**  
 
-**Xiangru Jian<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, **Wei Pang<sup>*</sup>**,  Chaolong Ying, Yimu Wang, Yaoyao Xu,, Tianshu Yu.
+Xiangru Jian*, **Xinjian Zhao<sup>*</sup>**, Wei Pang*,  Chaolong Ying, Yimu Wang, Yaoyao Xu,, Tianshu Yu.
 
 
 
 
 ## Publications
 
-**[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)** 
++ **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)** 
 
-**Yaoyao Xu<sup>*</sup>**, **Xinjian Zhao<sup>*</sup>**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. **(ECML-PKDD 2024)**
+Yaoyao Xu*, **Xinjian Zhao<sup>*</sup>**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. **(ECML-PKDD 2024)**
 
-**[Boosting Graph Pooling with Persistent Homology.](https://arxiv.org/pdf/2402.16346)** 
++ **[Boosting Graph Pooling with Persistent Homology.](https://arxiv.org/pdf/2402.16346)** 
 
 Chaolong Ying, **Xinjian Zhao**, Tianshu Yu. **(NeurIPS 2024)**
 
 
-**[Graph Learning with Distributional Edge Layouts]()** 
++ **[Graph Learning with Distributional Edge Layouts]()** 
 
 **Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu. **(SIGKDD 2025)**
 
