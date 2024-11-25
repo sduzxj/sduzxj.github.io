@@ -26,7 +26,7 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 ## Preprint
 + **[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** 
 
-Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Github](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
+Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Paper list](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
 + **[Enhancing Graph Self-Supervised Learning with Graph Interplay.](https://arxiv.org/abs/2410.04061)** 
 
