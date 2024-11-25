@@ -24,9 +24,6 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 
 ## Preprint
-+ **[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** 
-
-Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Paper list](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
 + **[Enhancing Graph Self-Supervised Learning with Graph Interplay.](https://arxiv.org/abs/2410.04061)** 
 
@@ -36,10 +33,23 @@ Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Daw
 
 Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao Xu,, Tianshu Yu.
 
++ **[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** 
+
+Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Paper list](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
+
++ **Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation**
+
+**Xinjian Zhao**, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao
+
 
 
 
 ## Publications
+
++ **[Graph Learning with Distributional Edge Layouts]()** 
+
+**Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu. **(SIGKDD 2025)**
+
 
 + **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)** 
 
@@ -49,10 +59,6 @@ Yaoyao Xu^, **Xinjian Zhao^**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. **(ECML
 
 Chaolong Ying, **Xinjian Zhao**, Tianshu Yu. **(NeurIPS 2024)**
 
-
-+ **[Graph Learning with Distributional Edge Layouts]()** 
-
-**Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu. **(SIGKDD 2025)**
 
 
 
