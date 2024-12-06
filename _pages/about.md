@@ -32,9 +32,9 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 **Xinjian Zhao^**, Wei Pang^, Xiangru Jian^, Yaoyao Xu, Chaolong Ying, Tianshu Yu.
 
-+ **[Do spectral cues matter in contrast-based graph self-supervised learning?](https://arxiv.org/abs/2405.19600)**  
++ **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://arxiv.org/abs/2405.19600)**  
 
-Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao Xu,, Tianshu Yu.
+Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu.
 
 + **[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** 
 
