@@ -62,6 +62,9 @@ Yaoyao Xu^, **Xinjian Zhao^**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. **(ECML
 
 Chaolong Ying, **Xinjian Zhao**, Tianshu Yu. **(NeurIPS 2024)**
 
+## Mentorship
++ Zhongkai Xue
+
 
 
 
