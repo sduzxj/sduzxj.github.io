@@ -15,10 +15,6 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 * Efficient Graph Representation Learning.
 
-## Education
-
-* B.S. in Computer Science, Shandong University (Data Science Elite Class)
-* M.S. in Data Science, City University of Hong Kong
 
 ## Experience
 * Visiting PhD student, Institute of Automation, Chinese Academy of Science.
@@ -28,9 +24,6 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 ^ equal contribution
 
-+ **[Enhancing Graph Self-Supervised Learning with Graph Interplay.](https://arxiv.org/abs/2410.04061)** 
-
-**Xinjian Zhao^**, Wei Pang^, Xiangru Jian^, Yaoyao Xu, Chaolong Ying, Tianshu Yu.
 
 + **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://arxiv.org/abs/2405.19600)**  
 
