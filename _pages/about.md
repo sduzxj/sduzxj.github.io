@@ -25,10 +25,6 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 ^ equal contribution
 
 
-+ **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://arxiv.org/abs/2405.19600)**  
-
-Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu.
-
 + **[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** 
 
 Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo. [Paper list](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
@@ -42,9 +38,15 @@ Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Daw
 
 ## Publications
 
++ **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://arxiv.org/abs/2405.19600)**  
+
+Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu. **(Transactions on Machine Learning Research 2025)**
+
+
 + **[Graph Learning with Distributional Edge Layouts]()** 
 
 **Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu. **(SIGKDD 2025)**
+
 
 
 + **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)** 
