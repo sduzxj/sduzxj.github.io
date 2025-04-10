@@ -38,24 +38,32 @@ Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Daw
 
 ## Publications
 
-+ **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://arxiv.org/abs/2405.19600)**  
++ **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://openreview.net/pdf?id=HjpD5kpfa3)**  
 
-Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu. **(Transactions on Machine Learning Research 2025)**
+Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu. 
+
+**Transactions on Machine Learning Research 2025**
 
 
 + **[Graph Learning with Distributional Edge Layouts]()** 
 
-**Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu. **(SIGKDD 2025)**
+**Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu. 
+
+**SIGKDD 2025**
 
 
 
 + **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)** 
 
-Yaoyao Xu^, **Xinjian Zhao^**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. **(ECML-PKDD 2024)**
+Yaoyao Xu^, **Xinjian Zhao^**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. 
+
+**ECML 2024**
 
 + **[Boosting Graph Pooling with Persistent Homology.](https://arxiv.org/pdf/2402.16346)** 
 
-Chaolong Ying, **Xinjian Zhao**, Tianshu Yu. **(NeurIPS 2024)**
+Chaolong Ying, **Xinjian Zhao**, Tianshu Yu. 
+
+**NeurIPS 2024**
 
 ## Mentorship
 + Zhongkai Xue
