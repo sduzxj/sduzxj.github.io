@@ -24,6 +24,11 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 ^ equal contribution
 
++ **GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks**
+
+Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang, Chao Zhang, Suyucheng Wang, Qixin Zhang, Joao Monteiro, Qiuzhuang Su, Tianshu Yu
+
+
 
 + **[Embedding in Recommender Systems: A Survey.](https://arxiv.org/pdf/2310.18608.pdf)** 
 
