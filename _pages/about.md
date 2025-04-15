@@ -26,7 +26,7 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 + **GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks**
 
-Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang, Chao Zhang, Suyucheng Wang, Qixin Zhang, Joao Monteiro, Qiuzhuang Su, Tianshu Yu
+Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang, Chao Zhang, Suyucheng Wang, Qixin Zhang, Joao Monteiro, Qiuzhuang Sun, Tianshu Yu
 
 
 
