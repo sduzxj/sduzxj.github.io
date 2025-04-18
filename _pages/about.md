@@ -17,14 +17,14 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 
 ## Experience
-* Visiting PhD student, Institute of Automation, Chinese Academy of Science.
+* Visiting PhD student, Institute of Automation, Chinese Academy of Science, hosted by Prof.Shu Wu
 
 
 ## Preprint 
 
 ^ equal contribution
 
-+ **GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks**
++ **[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**
 
 Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang, Chao Zhang, Suyucheng Wang, Qixin Zhang, Joao Monteiro, Qiuzhuang Sun, Tianshu Yu
 
