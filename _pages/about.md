@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Short Bio
 
-Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Shenzhen, under the supervision of [Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). I obtained my B.S. in Computer Science from Shandong University under the supervision of [Xuemeng Song](https://xuemengsong.github.io/). After that, I obtained my M.S. in Data Science from the City University of Hong Kong under the supervision of [Ruocheng Guo](https://rguo12.github.io/).
+Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Shenzhen, under the supervision of [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). I obtained my B.S. in Computer Science from Shandong University under the supervision of [Prof. Xuemeng Song](https://xuemengsong.github.io/). After that, I obtained my M.S. in Data Science from the City University of Hong Kong under the supervision of [Dr. Ruocheng Guo](https://rguo12.github.io/).
 
 ## Research Interests:
 
@@ -17,7 +17,7 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 
 ## Experience
-* Visiting PhD student, Institute of Automation, Chinese Academy of Science, hosted by Prof.Shu Wu
+* Visiting PhD student, Institute of Automation, Chinese Academy of Science, hosted by Prof. Shu Wu
 
 
 ## Preprint 
@@ -26,7 +26,7 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 + **[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**
 
-Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang, Chao Zhang, Suyucheng Wang, Qixin Zhang, Joao Monteiro, Qiuzhuang Sun, Tianshu Yu
+Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu
 
 
 
@@ -46,14 +46,12 @@ Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Daw
 + **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://openreview.net/pdf?id=HjpD5kpfa3)**  
 
 Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu. 
-
 **Transactions on Machine Learning Research 2025**
 
 
 + **[Graph Learning with Distributional Edge Layouts]()** 
 
 **Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu. 
-
 **SIGKDD 2025**
 
 
@@ -61,13 +59,11 @@ Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^,  Chaolong Ying, Yimu Wang, Yaoyao X
 + **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)** 
 
 Yaoyao Xu^, **Xinjian Zhao^**, Xiaozhuang Song, Benyou Wang, Tianshu Yu. 
-
 **ECML 2024**
 
 + **[Boosting Graph Pooling with Persistent Homology.](https://arxiv.org/pdf/2402.16346)** 
 
 Chaolong Ying, **Xinjian Zhao**, Tianshu Yu. 
-
 **NeurIPS 2024**
 
 ## Mentorship
