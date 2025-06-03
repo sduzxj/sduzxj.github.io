@@ -13,9 +13,7 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 ## Research Interests:
 * Graph Augmented Intelligence.
-  
 * AI4Science.
-  
 * Efficient Graph Representation Learning.
 
 
