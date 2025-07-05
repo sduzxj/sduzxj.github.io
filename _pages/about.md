@@ -18,7 +18,8 @@ Hi, I am a second-year CS PhD student at the Chinese University of Hong Kong, Sh
 
 
 ## Experience
-* Visiting PhD student, Institute of Automation, Chinese Academy of Science, hosted by Prof. Shu Wu
+* Visiting PhD student, Institute of Automation, Chinese Academy of Science, hosted by Prof. Shu Wu.
+* Research intern, Shanghai Artificial Intelligence Laboratory
 
 
 ## Preprint 
