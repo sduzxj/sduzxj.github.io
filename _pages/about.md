@@ -65,11 +65,12 @@ Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Daw
 **Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation**  
 **Xinjian Zhao**, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao
 
-## Mentorship
+## Mentorships
+Co-supervision with Prof. Tianshu Yu
 
 **Undergraduate Students**
-- Zhongkai Xue
-
+- Zhongkai Xue (2024.12-)
+- Zhixuan Yu
 ---
 
 
