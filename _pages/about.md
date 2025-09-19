@@ -39,6 +39,10 @@ Shanghai AI Laboratory
 
 *^ Equal contribution*
 
+**The Underappreciated Power of Vision Models for Graph Structural Understanding**  
+**Xinjian Zhao^**, Wei Pang^, Zhongkai Xue^, Xiangru Jian, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
+*Conference on Neural Information Processing Systems (NeurIPS)*, 2025
+
 **Graph Learning with Distributional Edge Layouts**  
 **Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025
@@ -71,7 +75,7 @@ Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Daw
 Co-supervision with Prof. Tianshu Yu
 
 **Undergraduate Students**
-- Zhongkai Xue (2024.12-)
+- Zhongkai Xue (2024.12-Present)
 - Zhixuan Yu
   
 ---
