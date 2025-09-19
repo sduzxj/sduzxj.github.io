@@ -39,11 +39,11 @@ Shanghai AI Laboratory
 
 *^ Equal contribution*
 
-**The Underappreciated Power of Vision Models for Graph Structural Understanding**  
+**[The Underappreciated Power of Vision Models for Graph Structural Understanding]()**  
 **Xinjian Zhao^**, Wei Pang^, Zhongkai Xue^, Xiangru Jian, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2025
 
-**Graph Learning with Distributional Edge Layouts**  
+**[Graph Learning with Distributional Edge Layouts]()**  
 **Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025
 
@@ -59,7 +59,7 @@ Yaoyao Xu^, **Xinjian Zhao^**, Xiaozhuang Song, Benyou Wang, Tianshu Yu
 Chaolong Ying, **Xinjian Zhao**, Tianshu Yu  
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2024
 
-### Preprints & Under Review
+### Preprints
 
 **[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
 Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu
@@ -68,7 +68,7 @@ Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^, Chao Zhang, Suyucheng Wang
 Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo  
 [📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
-**Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation**  
+**[Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation]()**  
 **Xinjian Zhao**, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao
 
 ## Mentorships
