@@ -75,7 +75,7 @@ Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Daw
 Co-supervision with Prof. Tianshu Yu
 
 **Undergraduate Students**
-- Zhongkai Xue (2024.12-Present)
+- Zhongkai Xue (2024.12-Present), **Next position**: PhD student at CAS
 - Zhixuan Yu
   
 ---
