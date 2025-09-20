@@ -49,7 +49,7 @@ Shanghai AI Laboratory
 
 **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://openreview.net/pdf?id=HjpD5kpfa3)**  
 Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^, Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu  
-*Transactions on Machine Learning Research*, 2025
+*Transactions on Machine Learning Research (TMLR)*, 2025
 
 **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)**  
 Yaoyao Xu^, **Xinjian Zhao^**, Xiaozhuang Song, Benyou Wang, Tianshu Yu  
