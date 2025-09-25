@@ -22,14 +22,6 @@ Prior to my PhD, I obtained my M.S. in Data Science from the City University of 
 - **Important applications in the real world (recommendation systems, industrial engineering, etc.)**
 
   
-## Professional Experience
-
-**Visiting PhD Student** (2024)  
-Institute of Automation, Chinese Academy of Sciences  
-*Host: Prof. Shu Wu*
-
-**Research Intern** (2025)  
-Shanghai AI Laboratory
 
 ## Publications
 
@@ -75,7 +67,7 @@ Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Daw
 Co-supervision with Prof. Tianshu Yu
 
 **Undergraduate Students**
-- Zhongkai Xue (2024.12-Present), **Next position**: PhD student at CAS
+- Zhongkai Xue (2024.12-Present), **Next position**: PhD student at UCAS
 - Zhixuan Yu
   
 ---
