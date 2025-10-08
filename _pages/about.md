@@ -32,7 +32,7 @@ Prior to my PhD, I obtained my M.S. in Data Science from the City University of 
 *^ Equal contribution*
 
 **[The Underappreciated Power of Vision Models for Graph Structural Understanding]()**  
-**Xinjian Zhao^**, Wei Pang^, Zhongkai Xue^, Xiangru Jian, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
+**Xinjian Zhao^**, Wei Pang^, Zhongkai Xue^, Xiangru Jian^, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2025
 
 **[Graph Learning with Distributional Edge Layouts]()**  
