@@ -53,8 +53,7 @@ Chaolong Ying, **Xinjian Zhao**, Tianshu Yu
 
 ### Preprints
 
-**[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
-Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu
+
 
 **[Embedding in Recommender Systems: A Survey](https://arxiv.org/pdf/2310.18608.pdf)**  
 Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo  
