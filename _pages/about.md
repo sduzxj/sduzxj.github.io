@@ -17,9 +17,8 @@ Prior to my PhD, I obtained my M.S. in Data Science from the City University of 
 ## Research Interests
 
 - **Graph Augmented Intelligence**
-- **AI for Science**
 - **Efficient Graph Representation Learning**
-- **Important applications in the real world (recommendation systems, industrial engineering, etc.)**
+- **Important applications in the real world (recommendation systems, etc.)**
 
   
 
