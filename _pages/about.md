@@ -28,10 +28,10 @@ Prior to my PhD, I obtained my M.S. in Data Science from the City University of 
 
 ### Journal & Conference Papers 
 
-*^ Equal contribution*
+*\* Equal contribution*
 
 **[The Underappreciated Power of Vision Models for Graph Structural Understanding]()**  
-**Xinjian Zhao^**, Wei Pang^, Zhongkai Xue^, Xiangru Jian^, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
+**Xinjian Zhao\***, Wei Pang\*, Zhongkai Xue\*, Xiangru Jian\*, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2025
 
 **[Graph Learning with Distributional Edge Layouts]()**  
@@ -39,11 +39,11 @@ Prior to my PhD, I obtained my M.S. in Data Science from the City University of 
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025
 
 **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://openreview.net/pdf?id=HjpD5kpfa3)**  
-Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^, Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu  
+Xiangru Jian\*, **Xinjian Zhao\***, Wei Pang\*, Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu  
 *Transactions on Machine Learning Research (TMLR)*, 2025
 
 **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)**  
-Yaoyao Xu^, **Xinjian Zhao^**, Xiaozhuang Song, Benyou Wang, Tianshu Yu  
+Yaoyao Xu\*, **Xinjian Zhao\***, Xiaozhuang Song, Benyou Wang, Tianshu Yu  
 *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2024
 
 **[Boosting Graph Pooling with Persistent Homology](https://arxiv.org/pdf/2402.16346)**  
@@ -53,14 +53,14 @@ Chaolong Ying, **Xinjian Zhao**, Tianshu Yu
 ### Preprints
 
 **[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
-Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu
+Hao Xu\*, Xiangru Jian\*, **Xinjian Zhao\***, Wei Pang\*, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu
 
 **[AOT\*: Efficient Synthesis Planning via LLM-Empowered AND-OR Tree Search](https://arxiv.org/abs/2509.20988)**  
 Xiaozhuang Song, Xuanhao Pan, **Xinjian Zhao**, Hangting Ye, Shufei Zhang, Jian Tang, Tianshu Yu
 
 
 **[Embedding in Recommender Systems: A Survey](https://arxiv.org/pdf/2310.18608.pdf)**  
-Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo  
+Xiangyu Zhao\*, Maolin Wang\*, **Xinjian Zhao\***, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo  
 [📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
 **[Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation]()**  
