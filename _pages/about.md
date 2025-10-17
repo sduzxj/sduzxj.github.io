@@ -55,6 +55,10 @@ Chaolong Ying, **Xinjian Zhao**, Tianshu Yu
 **[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
 Hao Xu^, Xiangru Jian^, **Xinjian Zhao^**, Wei Pang^, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu
 
+**[AOT\*: Efficient Synthesis Planning via LLM-Empowered AND-OR Tree Search](https://arxiv.org/abs/2509.20988)**  
+Xiaozhuang Song, Xuanhao Pan, **Xinjian Zhao**, Hangting Ye, Shufei Zhang, Jian Tang, Tianshu Yu
+
+
 **[Embedding in Recommender Systems: A Survey](https://arxiv.org/pdf/2310.18608.pdf)**  
 Xiangyu Zhao^, Maolin Wang^, **Xinjian Zhao^**, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo  
 [📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
