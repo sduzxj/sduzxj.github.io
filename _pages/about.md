@@ -18,6 +18,7 @@ Prior to my PhD, I obtained my M.S. in Data Science from the City University of 
 
 - **Graph Augmented Intelligence**
 - **Efficient Graph Representation Learning**
+- **AI4Science**
 - **Important applications in the real world (recommendation systems, etc.)**
 
   
@@ -34,7 +35,7 @@ Prior to my PhD, I obtained my M.S. in Data Science from the City University of 
 **Xinjian Zhao\***, Wei Pang\*, Zhongkai Xue\*, Xiangru Jian\*, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
 *Conference on Neural Information Processing Systems (NeurIPS)*, 2025
 
-**[Graph Learning with Distributional Edge Layouts]()**  
+**[Graph Learning with Distributional Edge Layouts](https://arxiv.org/abs/2402.16402)**  
 **Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025
 
@@ -63,14 +64,14 @@ Xiaozhuang Song, Xuanhao Pan, **Xinjian Zhao**, Hangting Ye, Shufei Zhang, Jian 
 Xiangyu Zhao\*, Maolin Wang\*, **Xinjian Zhao\***, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo  
 [📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
-**[Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation]()**  
+**[Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation](https://arxiv.org/abs/2402.10468)**  
 **Xinjian Zhao**, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao
 
 ## Mentorships
 Co-supervision with Prof. Tianshu Yu
 
 **Undergraduate Students**
-- Zhongkai Xue (2024.12-Present), **Next position**: PhD student at UCAS
+- [Zhongkai Xue](https://zhongkai-xue.com/) (2024.12-Present), **Next position**: PhD student at UCAS
 - Zhixuan Yu
   
 ---
