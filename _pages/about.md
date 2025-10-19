@@ -27,9 +27,9 @@ Prior to my PhD, I obtained my M.S. in Data Science from the City University of 
 
 
 
-### Journal & Conference Papers 
+###  Conference & Journal Papers 
 
-*\* Equal contribution*
+**\* Equal contribution**
 
 **[The Underappreciated Power of Vision Models for Graph Structural Understanding]()**  
 **Xinjian Zhao\***, Wei Pang\*, Zhongkai Xue\*, Xiangru Jian\*, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
