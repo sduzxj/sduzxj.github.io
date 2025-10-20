@@ -10,9 +10,9 @@ redirect_from:
 
 ## About Me
 
-I am a second-year CS PhD student at the Chinese University of Hong Kong, Shenzhen, and I feel fortunate to work under the guidance of [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). My research focuses on graph-based machine learning and AI applications in scientific domains. I also work closely with Prof. Shu Wu on graph-related research.
+I am a 3rd-year CS PhD student at the Chinese University of Hong Kong, Shenzhen, where I am fortunate to be advised by [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). My research focuses on graph-based machine learning and AI applications in scientific domains. 
 
-Prior to my PhD, I obtained my M.S. in Data Science from the City University of Hong Kong under the supervision of [Dr. Ruocheng Guo](https://rguo12.github.io/), and my B.S. in Computer Science from Shandong University under the supervision of [Prof. Xuemeng Song](https://xuemengsong.github.io/).
+Before my PhD, I obtained my M.S. in Data Science from the City University of Hong Kong under the supervision of [Dr. Ruocheng Guo](https://rguo12.github.io/), and my B.S. in Computer Science from Shandong University under the supervision of [Prof. Xuemeng Song](https://xuemengsong.github.io/).
 
 ## Research Interests
 
