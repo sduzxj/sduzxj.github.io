@@ -61,7 +61,7 @@ Xiaozhuang Song, Xuanhao Pan, **Xinjian Zhao**, Hangting Ye, Shufei Zhang, Jian 
 
 
 **[Embedding in Recommender Systems: A Survey](https://arxiv.org/pdf/2310.18608.pdf)**  
-Xiangyu Zhao\*, Maolin Wang\*, **Xinjian Zhao\***, Jiansheng Li, Shucheng Zhou, Dawei Yin, Qing Li, Jiliang Tang, Ruocheng Guo  
+Maolin Wang\*, **Xinjian Zhao\***, Wanyu Wang\*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao
 [📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
 
 **[Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation](https://arxiv.org/abs/2402.10468)**  
