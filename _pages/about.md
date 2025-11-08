@@ -56,10 +56,6 @@ Chaolong Ying, **Xinjian Zhao**, Tianshu Yu
 **[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
 Hao Xu\*, Xiangru Jian\*, **Xinjian Zhao\***, Wei Pang\*, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu
 
-**[AOT\*: Efficient Synthesis Planning via LLM-Empowered AND-OR Tree Search](https://arxiv.org/abs/2509.20988)**  
-Xiaozhuang Song, Xuanhao Pan, **Xinjian Zhao**, Hangting Ye, Shufei Zhang, Jian Tang, Tianshu Yu
-
-
 **[Embedding in Recommender Systems: A Survey](https://arxiv.org/pdf/2310.18608.pdf)**  
 Maolin Wang\*, **Xinjian Zhao\***, Wanyu Wang\*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao
 [📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
@@ -67,12 +63,21 @@ Maolin Wang\*, **Xinjian Zhao\***, Wanyu Wang\*, Sheng Zhang, Jiansheng Li, Bowe
 **[Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation](https://arxiv.org/abs/2402.10468)**  
 **Xinjian Zhao**, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao
 
+**[AOT\*: Efficient Synthesis Planning via LLM-Empowered AND-OR Tree Search](https://arxiv.org/abs/2509.20988)**  
+Xiaozhuang Song, Xuanhao Pan, **Xinjian Zhao**, Hangting Ye, Shufei Zhang, Jian Tang, Tianshu Yu
+
+
+
 ## Mentorships
 Co-supervision with Prof. Tianshu Yu
 
 **Undergraduate Students**
-- [Zhongkai Xue](https://zhongkai-xue.com/) (2024.12-Present), **Next position**: PhD student at UCAS
-- Zhixuan Yu
+
+**[Zhongkai Xue](https://zhongkai-xue.com/)** (2024.12-Present) - B.S. in Financial Engineering, CUHK-Shenzhen.
+
+Achievements: • NeurIPS 2025 • Research Intern at ByteDance • Next position: CS PhD student at UCAS
+
+Zhixuan Yu. -  B.S. in Computer Science, CUHK-Shenzhen.
   
 ---
 
