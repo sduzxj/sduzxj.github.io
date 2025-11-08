@@ -33,23 +33,23 @@ Before my PhD, I obtained my M.S. in Data Science from the City University of Ho
 
 **[The Underappreciated Power of Vision Models for Graph Structural Understanding](https://arxiv.org/pdf/2510.24788)**  
 **Xinjian Zhao\***, Wei Pang\*, Zhongkai Xue\*, Xiangru Jian\*, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
-*Conference on Neural Information Processing Systems (NeurIPS)*, 2025
+*Conference on Neural Information Processing Systems (**NeurIPS**)*, 2025
 
 **[Graph Learning with Distributional Edge Layouts](https://arxiv.org/abs/2402.16402)**  
 **Xinjian Zhao**, Chaolong Ying, Yaoyao Xu, Tianshu Yu  
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**)*, 2025
 
 **[Rethinking Spectral Augmentation for Contrast-based Graph Self-Supervised Learning](https://openreview.net/pdf?id=HjpD5kpfa3)**  
 Xiangru Jian\*, **Xinjian Zhao\***, Wei Pang\*, Chaolong Ying, Yimu Wang, Yaoyao Xu, Tianshu Yu  
-*Transactions on Machine Learning Research (TMLR)*, 2025
+*Transactions on Machine Learning Research (**TMLR**)*, 2025
 
 **[Boosting Protein Language Models with Negative Sample Mining](https://arxiv.org/pdf/2402.16346)**  
 Yaoyao Xu\*, **Xinjian Zhao\***, Xiaozhuang Song, Benyou Wang, Tianshu Yu  
-*European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, 2024
+*European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**)*, 2024
 
 **[Boosting Graph Pooling with Persistent Homology](https://arxiv.org/pdf/2402.16346)**  
 Chaolong Ying, **Xinjian Zhao**, Tianshu Yu  
-*Conference on Neural Information Processing Systems (NeurIPS)*, 2024
+*Conference on Neural Information Processing Systems (**NeurIPS**)*, 2024
 
 ### Preprints
 
