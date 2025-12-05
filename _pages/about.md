@@ -77,7 +77,7 @@ Co-supervision with Prof. Tianshu Yu
   - **Achievements**: • NeurIPS 2025 • Research Intern at ByteDance
   - **Next position**: CS PhD student at UCAS
 
-- **[Zhixuan Yu]()** -  B.S. in Computer Science, CUHK-Shenzhen.
+- **[Zhixuan Yu](https://y-xvan.github.io/)** -  B.S. in Electronic and Computer Engineering, CUHK-Shenzhen.
   
 ---
 
