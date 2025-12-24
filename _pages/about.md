@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I am a 3rd-year CS PhD student at the Chinese University of Hong Kong, Shenzhen, where I am grateful to be advised by [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). I also had a wonderful time as a visiting PhD student hosted by Prof.Shu Wu at CAS. My research focuses on graph-based machine learning and AI applications in scientific domains. 
+I am a 3rd-year CS PhD student at the Chinese University of Hong Kong, Shenzhen, where I am grateful to be advised by [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). I also had a wonderful time as a visiting PhD student hosted by Prof. Shu Wu at CAS. My research focuses on graph-based machine learning and AI applications in scientific domains. 
 
 Before my PhD, I obtained my M.S. in Data Science from the City University of Hong Kong under the supervision of [Dr. Ruocheng Guo](https://rguo12.github.io/), and my B.S. in Computer Science from Shandong University under the supervision of [Prof. Xuemeng Song](https://xuemengsong.github.io/).
 
@@ -58,7 +58,7 @@ Hao Xu\*, Xiangru Jian\*, **Xinjian Zhao\***, Wei Pang\*, Chao Zhang, Suyucheng 
 
 **[Embedding in Recommender Systems: A Survey](https://arxiv.org/pdf/2310.18608.pdf)**  
 Maolin Wang\*, **Xinjian Zhao\***, Wanyu Wang\*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao
-[📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)
+[📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)  
 
 **[Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation](https://arxiv.org/abs/2402.10468)**  
 **Xinjian Zhao**, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao
@@ -78,7 +78,6 @@ Co-supervision with Prof. Tianshu Yu
   - **Next position**: CS PhD student at UCAS
 
 - **[Zhixuan Yu](https://y-xvan.github.io/)** -  B.S. in Electronic and Computer Engineering, CUHK-Shenzhen.
-  
 ---
 
 
