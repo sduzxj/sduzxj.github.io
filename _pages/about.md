@@ -76,7 +76,10 @@ Co-supervision with Prof. Tianshu Yu
 - **[Zhongkai Xue](https://zhongkai-xue.com/)** (2024.12-Present) - B.S. in Financial Engineering, CUHK-Shenzhen.
   - **Achievements**: • NeurIPS 2025 • Research Intern at ByteDance
   - **Next position**: CS PhD student at UCAS
-- **[Zhixuan Yu](https://y-xvan.github.io/)** -  B.S. in Electronic and Computer Engineering, CUHK-Shenzhen.
+- **[Zhixuan Yu](https://y-xvan.github.io/)** (2025.11-Present) - B.S. in Electronic and Computer Engineering, CUHK-Shenzhen.
+
+
+- 
 ---
 
 
