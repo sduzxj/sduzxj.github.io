@@ -23,11 +23,8 @@ Before my PhD, I obtained my M.S. in Data Science from the City University of Ho
 
   
 
-## Publications
+## Publications & Preprints
 
-
-
-###  Conference & Journal Papers 
 
 **\* Equal contribution**
 
@@ -51,14 +48,12 @@ Yaoyao Xu\*, **Xinjian Zhao\***, Xiaozhuang Song, Benyou Wang, Tianshu Yu
 Chaolong Ying, **Xinjian Zhao**, Tianshu Yu  
 *Conference on Neural Information Processing Systems (**NeurIPS**)*, 2024
 
-### Preprints
-
 **[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
 Hao Xu\*, Xiangru Jian\*, **Xinjian Zhao\***, Wei Pang\*, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu
 
 **[Embedding in Recommender Systems: A Survey](https://arxiv.org/pdf/2310.18608.pdf)**  
 Maolin Wang\*, **Xinjian Zhao\***, Wanyu Wang\*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao
-[📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems)  
+[📝 Paper List](https://github.com/Applied-Machine-Learning-Lab/Embedding-in-Recommender-Systems) 
 
 **[Adversarial Curriculum Graph Contrastive Learning with Pair-wise Augmentation](https://arxiv.org/abs/2402.10468)**  
 **Xinjian Zhao**, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao
