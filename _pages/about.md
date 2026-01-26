@@ -35,7 +35,7 @@ Preprint, 2026
 
 **[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
 Hao Xu\*, Xiangru Jian\*, **Xinjian Zhao \***, Wei Pang\*, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu  
-*International Conference on Learning Representations* (**ICLR**), 2026
+*International Conference on Learning Representations (**ICLR**)* , 2026
 
 **[The Underappreciated Power of Vision Models for Graph Structural Understanding](https://arxiv.org/pdf/2510.24788)**  
 **Xinjian Zhao \***, Wei Pang \*, Zhongkai Xue \*, Xiangru Jian \*, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
