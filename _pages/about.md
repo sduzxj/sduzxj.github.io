@@ -28,9 +28,14 @@ Before my PhD, I obtained my M.S. in Data Science from the City University of Ho
 
 **\* Equal contribution**
 
+
 **[When Vision Meets Graphs: A Survey on Graph Reasoning and Learning]()**  
 **Xinjian Zhao**, Wei Pang, Zhixuan Yu, Xiangru Jian, Xiaozhuang Song, Yaoyao Xu, Zhongkai Xue, Dingshuo Chen, Shu Wu, Philip Torr, Tianshu Yu  
 Preprint, 2026
+
+**[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
+Hao Xu\*, Xiangru Jian\*, **Xinjian Zhao \***, Wei Pang\*, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu  
+*International Conference on Learning Representations* (**ICLR**), 2026
 
 **[The Underappreciated Power of Vision Models for Graph Structural Understanding](https://arxiv.org/pdf/2510.24788)**  
 **Xinjian Zhao \***, Wei Pang \*, Zhongkai Xue \*, Xiangru Jian \*, Lei Zhang, Yaoyao Xu, Xiaozhuang Song, Shu Wu, Tianshu Yu.  
@@ -56,9 +61,6 @@ Chaolong Ying, **Xinjian Zhao**, Tianshu Yu
 **Xinjian Zhao**, Liang Zhang, Yang Liu, Ruocheng Guo, Xiangyu Zhao  
 Preprint, 2024
 
-**[GraphOmni: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764)**  
-Hao Xu\*, Xiangru Jian\*, **Xinjian Zhao \***, Wei Pang\*, Chao Zhang, Suyucheng Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu  
-Preprint, 2025
 
 **[Embedding in Recommender Systems: A Survey](https://arxiv.org/pdf/2310.18608.pdf)**  
 Maolin Wang\*, **Xinjian Zhao \***, Wanyu Wang\*, Sheng Zhang, Jiansheng Li, Bowen Yu, Binhao Wang, Shucheng Zhou, Dawei Yin, Qing Li, Ruocheng Guo, Xiangyu Zhao
