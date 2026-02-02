@@ -29,7 +29,7 @@ Before my PhD, I obtained my M.S. in Data Science from the City University of Ho
 **\* Equal contribution**
 
 
-**[When Vision Meets Graphs: A Survey on Graph Reasoning and Learning]()**  
+**[When Vision Meets Graphs: A Survey on Graph Reasoning and Learning](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177004261.15861585/v1)**  
 **Xinjian Zhao**, Wei Pang, Zhixuan Yu, Xiangru Jian, Xiaozhuang Song, Yaoyao Xu, Zhongkai Xue, Dingshuo Chen, Shu Wu, Philip Torr, Tianshu Yu  
 Preprint, 2026
 
